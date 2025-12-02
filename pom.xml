@@ -4,8 +4,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>Batt_B</artifactId>
-<groupId>IT.example</groupId>
-
+<groupId>it.unical.unical.demacs</groupId>
+    <version>1.0.0</version>
+    <name>ProvaIngSw_250941</name>
+    
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>17</maven.compiler.release>

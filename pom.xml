@@ -28,7 +28,7 @@
             <version>5.14.0</version>
             <scope>test</scope>
         </dependency>
-        
+
     </dependencies>
     <build>
         <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->

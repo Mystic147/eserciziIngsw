@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="176bc8bc-2d09-46b1-8de0-f3cd49f54cdd" name="Changes" comment="aggiunti test per checkIsSorted e CheckArrayIsNull aggiunto .gitignore">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/unical/demacs/AlgTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/unical/demacs/AlgTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/unical/demacs/Algorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/unical/demacs/Algorithms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/unical/demacs/AlgTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/unical/demacs/AlgTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/putin" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Mystic147&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Mystic147/eserciziIngsw.git&quot;,
+    &quot;accountId&quot;: &quot;cfb770ac-2f7a-42f6-8853-7b2ead242fbf&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="36ILjEkGZL7m8HeF0YSb16PaiWJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.AlgTest.checkAcronym.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AlgTest.checkAcronymFalse.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AlgTest.checkAcronymTrue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AlgTest.checkArrayIsNull.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AlgTest.checkIsNull.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AlgTest.checkIsSorted.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;putin&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.AlgTest.checkAcronymTrue">
+    <configuration name="AlgTest.checkAcronymFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Batt_B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.unical.demacs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.unical.demacs" />
+      <option name="MAIN_CLASS_NAME" value="it.unical.demacs.AlgTest" />
+      <option name="METHOD_NAME" value="checkAcronymFalse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgTest.checkAcronymTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Batt_B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.unical.demacs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.unical.demacs" />
+      <option name="MAIN_CLASS_NAME" value="it.unical.demacs.AlgTest" />
+      <option name="METHOD_NAME" value="checkAcronymTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgTest.checkArrayIsNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Batt_B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.unical.demacs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.unical.demacs" />
+      <option name="MAIN_CLASS_NAME" value="it.unical.demacs.AlgTest" />
+      <option name="METHOD_NAME" value="checkArrayIsNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgTest.checkIsNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Batt_B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.unical.demacs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.unical.demacs" />
+      <option name="MAIN_CLASS_NAME" value="it.unical.demacs.AlgTest" />
+      <option name="METHOD_NAME" value="checkIsNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgTest.checkIsSorted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Batt_B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.unical.demacs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.unical.demacs" />
+      <option name="MAIN_CLASS_NAME" value="it.unical.demacs.AlgTest" />
+      <option name="METHOD_NAME" value="checkIsSorted" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="eserciziIngsw" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="eserciziIngsw" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AlgTest.checkAcronymTrue" />
+        <item itemvalue="JUnit.AlgTest.checkIsSorted" />
+        <item itemvalue="JUnit.AlgTest.checkArrayIsNull" />
+        <item itemvalue="JUnit.AlgTest.checkAcronymFalse" />
+        <item itemvalue="JUnit.AlgTest.checkIsNull" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="176bc8bc-2d09-46b1-8de0-f3cd49f54cdd" name="Changes" comment="" />
+      <created>1764689271691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764689271691</updated>
+    </task>
+    <task id="LOCAL-00001" summary="modificato il pom.xml">
+      <option name="closed" value="true" />
+      <created>1764689762152</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764689762152</updated>
+    </task>
+    <task id="LOCAL-00002" summary="modificato il pom.xml aggiunte dependencies">
+      <option name="closed" value="true" />
+      <created>1764689976216</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1764689976216</updated>
+    </task>
+    <task id="LOCAL-00003" summary="modificato il pom.xml aggiunte dependencies">
+      <option name="closed" value="true" />
+      <created>1764689985213</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764689985213</updated>
+    </task>
+    <task id="LOCAL-00004" summary="aggiunta classe AlgTest e test checkAcronymTrue">
+      <option name="closed" value="true" />
+      <created>1764690711752</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1764690711752</updated>
+    </task>
+    <task id="LOCAL-00005" summary="aggiunto test checkIsNull">
+      <option name="closed" value="true" />
+      <created>1764690877727</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1764690877727</updated>
+    </task>
+    <task id="LOCAL-00006" summary="aggiunti test per checkIsSorted e CheckArrayIsNull aggiunto .gitignore">
+      <option name="closed" value="true" />
+      <created>1764693033213</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1764693033213</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="putin" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modificato il pom.xml" />
+    <MESSAGE value="modificato il pom.xml aggiunte dependencies" />
+    <MESSAGE value="aggiunta classe AlgTest e test checkAcronymTrue" />
+    <MESSAGE value="aggiunto test checkIsNull" />
+    <MESSAGE value="aggiunti test per checkIsSorted e CheckArrayIsNull aggiunto .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="aggiunti test per checkIsSorted e CheckArrayIsNull aggiunto .gitignore" />
+  </component>
+</project>

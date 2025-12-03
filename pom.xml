@@ -5,13 +5,35 @@
 
     <groupId>it.unical.demacs</groupId>
     <artifactId>Batt_B</artifactId>
+<<<<<<< Updated upstream
     <name>ProvaIngsw_{250941}</name>
     <version>1.0.0</version>
+=======
+    <version> 1.0.0</version>
+    <name>ProvaIngSw_{250941}</name>
+    <groupId> it.unical.demacs</groupId>
+
+
+>>>>>>> Stashed changes
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.release>17</maven.compiler.release>
+        <maven.compiler.release>21</maven.compiler.release>
     </properties>
+    <dependencies>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>5.14.0</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-engine</artifactId>
+            <version>5.14.0</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 
     <dependencies>
         <dependency>
@@ -55,7 +77,7 @@
                 </plugin>
                 <plugin>
                     <artifactId>maven-compiler-plugin</artifactId>
-                    <version>3.13.0</version>
+                    <version>3.14.1</version>
                 </plugin>
                 <plugin>
                     <artifactId>maven-surefire-plugin</artifactId>

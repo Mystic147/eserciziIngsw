@@ -15,7 +15,7 @@ public class AlgTest {
 
     @Test
     void checkAcronymTrue(){
-        assertTrue(algorithms.checkAcronym("ONU", "Organizzazione Nazioni Unite"));
+        assertTrue(algorithms.checkAcronym("ONU", "Organizzazione delle Nazioni Unite"));
     }
 
     @Test
